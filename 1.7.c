@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main() 
+main()
 {
-    putchar(EOF);
+    printf("%d\n", EOF);
 }

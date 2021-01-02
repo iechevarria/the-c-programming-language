@@ -1,0 +1,4 @@
+Some cases to test a word counting program:
+- start with a space / newline / other non-word character
+- include no words
+- include only one word without any non-word characters

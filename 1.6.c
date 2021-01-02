@@ -1,6 +1,6 @@
-#include <stdio.h>
+# include <stdio.h>
 
-main() 
+main()
 {
-  putchar('0' + (getchar() != EOF));
+    printf("%d\n", (getchar() != EOF));
 }
